@@ -86,7 +86,7 @@
     },
     {
       "id": "1cc9",
-      "title": "React Developer",
+      "title": "React Developer Intern",
       "type": "Internship",
       "location": "Cluj Napoca",
       "description": "React Developer",
@@ -94,8 +94,7 @@
       "company": {
         "name": "Evozon",
         "description": "programing",
-        "contactEmail": "moalealin15@gmail.com",
-        "contactPhone": "0752838951"
+        "contactEmail": "moalealin15@gmail.com"
       }
     }
   ]
